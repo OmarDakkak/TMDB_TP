@@ -3,7 +3,8 @@ C'est une application mobile, développée pour chercher des films populaires et
 J'ai fait des appels API sur [TMDb v3 API](https://developers.themoviedb.org/3) en utilisant [retrofit 2](https://square.github.io/retrofit/).
 
 # Specifications 
-● Retrofit2 pour les appels réseaux \n
+● Retrofit2 pour les appels réseaux
+
 ● Glide pour l’affichage des url d’image
 
 # Bonus Réalisés 
