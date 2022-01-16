@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDB_TP</string>
+    <string name="overview">Overview : </string>
+    <string name="img_desc">The Poster of the film</string>
+    <string name="release_date">Release Date : </string>
+    <string name="genres">Genres : </string>
+</resources>
